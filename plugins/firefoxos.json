@@ -1,0 +1,82 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-bb-pimlib": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-bb-utils": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.td.batterystatusdemo"
+        }
+    }
+}
